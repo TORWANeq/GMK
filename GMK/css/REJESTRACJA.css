@@ -1,0 +1,99 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 8px;
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/DJI_0567-E.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 877px;
+}
+
+.u-section-2 .u-group-1 {
+  min-height: 547px;
+  width: 453px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 146px auto 60px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 28px 29px 30px;
+}
+
+.u-section-2 .u-text-1 {
+  text-transform: none;
+  font-size: 3.75rem;
+  font-weight: 700;
+  text-align: left;
+  width: 293px;
+  margin: 30px auto 0;
+}
+
+.u-section-2 .u-form-1 {
+  height: 280px;
+  width: 379px;
+  margin: 19px auto 0;
+}
+
+.u-section-2 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.u-section-2 .u-text-2 {
+  text-align: left;
+  font-size: 1.25rem;
+  font-weight: normal;
+  margin: 19px auto 0;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none none solid;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1016px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-group-1 {
+    width: 340px;
+    min-height: 546px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-right: 0;
+    margin-left: 47px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 320px;
+  }
+}
